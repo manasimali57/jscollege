@@ -1,0 +1,28 @@
+*{
+   margin: 0;
+   padding: 0%;
+   
+    
+}
+
+form{
+    width: 500px;
+    height: 600px;
+    display: grid;
+    border: 1px solid #000000;
+    place-items: center;
+    margin: auto;
+    background-color: gray;
+    box-shadow: 2px 2px 8px black;
+   
+}
+
+input{
+    border: 1px solid #000000;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+h2{
+    color: azure;
+}
