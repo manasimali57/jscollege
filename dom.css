@@ -1,0 +1,36 @@
+*{
+    background-color:#7C93C3;
+}
+h1{
+    color:rgb(30, 42, 94) ;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+p{
+    color:rgb(30, 42, 94) ;
+    text-align: center;
+    font-weight: 600;
+    font-size: large;
+    margin: 20px;
+}
+
+button{
+   color: rgb(30, 42, 94);
+   background-color: #b0c7f9;
+    width: 20%;
+    font-size: medium;
+    font-weight: 600;
+    padding: 15px 20px;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+    font-size: large;
+   
+}
+
+.Btn{
+   margin-left: 250px;
+}
